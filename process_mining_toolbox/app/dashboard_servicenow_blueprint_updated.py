@@ -4,7 +4,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+# import plotly.express as px
 from sqlalchemy import create_engine
 from dotenv import load_dotenv
 
