@@ -1,15 +1,26 @@
-pandas
-numpy
-plotly
-matplotlib
-seaborn
-networkx
-sqlalchemy
-psycopg2-binary
-scikit-learn
-nltk
-spacy
-openpyxl
-python-dotenv
-jupyterlab
-streamlit
+# Core
+streamlit==1.37.1
+
+# Data stack (pin to widely compatible wheels)
+pandas==2.2.2
+numpy==1.26.4        # <— avoid NumPy 2.x incompatibilities on cloud
+python-dateutil==2.9.0.post0
+
+# Viz
+plotly==5.22.0
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Graph / DB
+networkx==3.3
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# ML / NLP  (ok to keep if you really use them)
+scikit-learn==1.4.2
+nltk==3.8.1
+spacy==3.7.4
+openpyxl==3.1.5
+
+# Utils
+python-dotenv==1.0.1
