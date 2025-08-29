@@ -1,0 +1,15 @@
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+networkx
+sqlalchemy
+psycopg2-binary
+scikit-learn
+nltk
+spacy
+openpyxl
+python-dotenv
+jupyterlab
+streamlit

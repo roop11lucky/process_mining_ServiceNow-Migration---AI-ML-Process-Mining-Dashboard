@@ -1,0 +1,24 @@
+name: process_mining_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - numpy
+      - plotly
+      - matplotlib
+      - seaborn
+      - networkx
+      - sqlalchemy
+      - psycopg2-binary
+      - scikit-learn
+      - nltk
+      - spacy
+      - openpyxl
+      - python-dotenv
+      - jupyterlab
+      - streamlit
+
+PG_URI=postgresql://postgres:Password@localhost:5433/eventlog_db

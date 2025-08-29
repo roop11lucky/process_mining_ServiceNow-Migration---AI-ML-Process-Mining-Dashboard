@@ -1,0 +1,389 @@
+queue_id,sequence,ticket_count,variant_id
+Q01,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,24,1
+Q01,Open → Assigned → In Progress → Escalated → Resolved → Closed,29,2
+Q01,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,24,3
+Q01,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,19,4
+Q01,Open → Assigned → In Progress → Resolved → Closed,24,5
+Q02,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,15,1
+Q02,Open → Assigned → In Progress → Escalated → Resolved → Closed,16,2
+Q02,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,16,3
+Q02,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q02,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,16,5
+Q02,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,18,6
+Q02,Open → Assigned → In Progress → Resolved → Closed,13,7
+Q02,Open → Assigned → QA → Resolved → Closed,12,8
+Q03,Open → Assigned → In Progress → Escalated → Resolved → Closed,61,1
+Q03,Open → Assigned → In Progress → Resolved → Closed,59,2
+Q04,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,14,1
+Q04,Open → Assigned → In Progress → Escalated → Resolved → Closed,16,2
+Q04,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,16,3
+Q04,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,13,4
+Q04,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,13,5
+Q04,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q04,Open → Assigned → In Progress → Resolved → Closed,19,7
+Q04,Open → Assigned → QA → Resolved → Closed,16,8
+Q05,Open → Assigned → In Progress → Escalated → Resolved → Closed,55,1
+Q05,Open → Assigned → In Progress → Resolved → Closed,65,2
+Q06,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,22,1
+Q06,Open → Assigned → In Progress → Escalated → Resolved → Closed,15,2
+Q06,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,19,3
+Q06,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,8,4
+Q06,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,16,5
+Q06,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,18,6
+Q06,Open → Assigned → In Progress → Resolved → Closed,9,7
+Q06,Open → Assigned → QA → Resolved → Closed,13,8
+Q07,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,18,1
+Q07,Open → Assigned → In Progress → Escalated → Resolved → Closed,20,2
+Q07,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,9,3
+Q07,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q07,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,13,5
+Q07,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,21,6
+Q07,Open → Assigned → In Progress → Resolved → Closed,15,7
+Q07,Open → Assigned → QA → Resolved → Closed,10,8
+Q08,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,25,1
+Q08,Open → Assigned → In Progress → Escalated → Resolved → Closed,20,2
+Q08,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,20,3
+Q08,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,24,4
+Q08,Open → Assigned → In Progress → Resolved → Closed,31,5
+Q09,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,30,1
+Q09,Open → Assigned → In Progress → Escalated → Resolved → Closed,28,2
+Q09,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,12,3
+Q09,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,26,4
+Q09,Open → Assigned → In Progress → Resolved → Closed,24,5
+Q10,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,7,1
+Q10,Open → Assigned → In Progress → Escalated → Resolved → Closed,12,2
+Q10,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,20,3
+Q10,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,26,4
+Q10,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,18,5
+Q10,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q10,Open → Assigned → In Progress → Resolved → Closed,11,7
+Q10,Open → Assigned → QA → Resolved → Closed,13,8
+Q11,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,5,1
+Q11,Open → Assigned → In Progress → Escalated → Resolved → Closed,20,2
+Q11,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,16,3
+Q11,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,16,4
+Q11,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,16,5
+Q11,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q11,Open → Assigned → In Progress → Resolved → Closed,18,7
+Q11,Open → Assigned → QA → Resolved → Closed,16,8
+Q12,Open → Assigned → In Progress → Escalated → Resolved → Closed,61,1
+Q12,Open → Assigned → In Progress → Resolved → Closed,59,2
+Q13,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,25,1
+Q13,Open → Assigned → In Progress → Escalated → Resolved → Closed,21,2
+Q13,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,21,3
+Q13,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,18,4
+Q13,Open → Assigned → In Progress → Resolved → Closed,35,5
+Q14,Open → Assigned → In Progress → Escalated → Resolved → Closed,63,1
+Q14,Open → Assigned → In Progress → Resolved → Closed,57,2
+Q15,Open → Assigned → In Progress → Escalated → Resolved → Closed,67,1
+Q15,Open → Assigned → In Progress → Resolved → Closed,53,2
+Q16,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,12,1
+Q16,Open → Assigned → In Progress → Escalated → Resolved → Closed,9,2
+Q16,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,16,3
+Q16,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,24,4
+Q16,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,16,5
+Q16,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q16,Open → Assigned → In Progress → Resolved → Closed,19,7
+Q16,Open → Assigned → QA → Resolved → Closed,11,8
+Q17,Open → Assigned → In Progress → Escalated → Resolved → Closed,52,1
+Q17,Open → Assigned → In Progress → Resolved → Closed,68,2
+Q18,Open → Assigned → In Progress → Escalated → Resolved → Closed,58,1
+Q18,Open → Assigned → In Progress → Resolved → Closed,62,2
+Q19,Open → Assigned → In Progress → Escalated → Resolved → Closed,60,1
+Q19,Open → Assigned → In Progress → Resolved → Closed,60,2
+Q20,Open → Assigned → In Progress → Escalated → Resolved → Closed,61,1
+Q20,Open → Assigned → In Progress → Resolved → Closed,59,2
+Q21,Open → Assigned → In Progress → Escalated → Resolved → Closed,56,1
+Q21,Open → Assigned → In Progress → Resolved → Closed,64,2
+Q22,Open → Assigned → In Progress → Escalated → Resolved → Closed,54,1
+Q22,Open → Assigned → In Progress → Resolved → Closed,66,2
+Q23,Open → Assigned → In Progress → Escalated → Resolved → Closed,67,1
+Q23,Open → Assigned → In Progress → Resolved → Closed,53,2
+Q24,Open → Assigned → In Progress → Escalated → Resolved → Closed,58,1
+Q24,Open → Assigned → In Progress → Resolved → Closed,62,2
+Q25,Open → Assigned → In Progress → Escalated → Resolved → Closed,54,1
+Q25,Open → Assigned → In Progress → Resolved → Closed,66,2
+Q26,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,26,1
+Q26,Open → Assigned → In Progress → Escalated → Resolved → Closed,25,2
+Q26,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,32,3
+Q26,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,14,4
+Q26,Open → Assigned → In Progress → Resolved → Closed,23,5
+Q27,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,21,1
+Q27,Open → Assigned → In Progress → Escalated → Resolved → Closed,25,2
+Q27,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,24,3
+Q27,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,30,4
+Q27,Open → Assigned → In Progress → Resolved → Closed,20,5
+Q28,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,15,1
+Q28,Open → Assigned → In Progress → Escalated → Resolved → Closed,13,2
+Q28,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,19,3
+Q28,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q28,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,15,5
+Q28,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,16,6
+Q28,Open → Assigned → In Progress → Resolved → Closed,12,7
+Q28,Open → Assigned → QA → Resolved → Closed,16,8
+Q29,Open → Assigned → In Progress → Escalated → Resolved → Closed,72,1
+Q29,Open → Assigned → In Progress → Resolved → Closed,48,2
+Q30,Open → Assigned → In Progress → Escalated → Resolved → Closed,52,1
+Q30,Open → Assigned → In Progress → Resolved → Closed,68,2
+Q31,Open → Assigned → In Progress → Escalated → Resolved → Closed,64,1
+Q31,Open → Assigned → In Progress → Resolved → Closed,56,2
+Q32,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,14,1
+Q32,Open → Assigned → In Progress → Escalated → Resolved → Closed,16,2
+Q32,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,25,3
+Q32,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,28,4
+Q32,Open → Assigned → In Progress → Resolved → Closed,37,5
+Q33,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,14,1
+Q33,Open → Assigned → In Progress → Escalated → Resolved → Closed,20,2
+Q33,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,13,3
+Q33,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,11,4
+Q33,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,14,5
+Q33,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,14,6
+Q33,Open → Assigned → In Progress → Resolved → Closed,17,7
+Q33,Open → Assigned → QA → Resolved → Closed,17,8
+Q34,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,22,1
+Q34,Open → Assigned → In Progress → Escalated → Resolved → Closed,14,2
+Q34,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,22,3
+Q34,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q34,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,6,5
+Q34,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,12,6
+Q34,Open → Assigned → In Progress → Resolved → Closed,18,7
+Q34,Open → Assigned → QA → Resolved → Closed,12,8
+Q35,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,24,1
+Q35,Open → Assigned → In Progress → Escalated → Resolved → Closed,27,2
+Q35,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,21,3
+Q35,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,20,4
+Q35,Open → Assigned → In Progress → Resolved → Closed,28,5
+Q36,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,13,1
+Q36,Open → Assigned → In Progress → Escalated → Resolved → Closed,19,2
+Q36,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,13,3
+Q36,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q36,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,12,5
+Q36,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,16,6
+Q36,Open → Assigned → In Progress → Resolved → Closed,16,7
+Q36,Open → Assigned → QA → Resolved → Closed,17,8
+Q37,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,12,1
+Q37,Open → Assigned → In Progress → Escalated → Resolved → Closed,14,2
+Q37,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,11,3
+Q37,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q37,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,21,5
+Q37,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,17,6
+Q37,Open → Assigned → In Progress → Resolved → Closed,18,7
+Q37,Open → Assigned → QA → Resolved → Closed,13,8
+Q38,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,25,1
+Q38,Open → Assigned → In Progress → Escalated → Resolved → Closed,33,2
+Q38,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,20,3
+Q38,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,20,4
+Q38,Open → Assigned → In Progress → Resolved → Closed,22,5
+Q39,Open → Assigned → In Progress → Escalated → Resolved → Closed,67,1
+Q39,Open → Assigned → In Progress → Resolved → Closed,53,2
+Q40,Open → Assigned → In Progress → Escalated → Resolved → Closed,60,1
+Q40,Open → Assigned → In Progress → Resolved → Closed,60,2
+Q41,Open → Assigned → In Progress → Escalated → Resolved → Closed,55,1
+Q41,Open → Assigned → In Progress → Resolved → Closed,65,2
+Q42,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,16,1
+Q42,Open → Assigned → In Progress → Escalated → Resolved → Closed,13,2
+Q42,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,18,3
+Q42,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,20,4
+Q42,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,12,5
+Q42,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q42,Open → Assigned → In Progress → Resolved → Closed,14,7
+Q42,Open → Assigned → QA → Resolved → Closed,14,8
+Q43,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,22,1
+Q43,Open → Assigned → In Progress → Escalated → Resolved → Closed,18,2
+Q43,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,23,3
+Q43,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,30,4
+Q43,Open → Assigned → In Progress → Resolved → Closed,27,5
+Q44,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,9,1
+Q44,Open → Assigned → In Progress → Escalated → Resolved → Closed,15,2
+Q44,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,9,3
+Q44,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q44,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,17,5
+Q44,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,13,6
+Q44,Open → Assigned → In Progress → Resolved → Closed,21,7
+Q44,Open → Assigned → QA → Resolved → Closed,22,8
+Q45,Open → Assigned → In Progress → Escalated → Resolved → Closed,51,1
+Q45,Open → Assigned → In Progress → Resolved → Closed,69,2
+Q46,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,18,1
+Q46,Open → Assigned → In Progress → Escalated → Resolved → Closed,25,2
+Q46,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,33,3
+Q46,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,19,4
+Q46,Open → Assigned → In Progress → Resolved → Closed,25,5
+Q47,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,19,1
+Q47,Open → Assigned → In Progress → Escalated → Resolved → Closed,19,2
+Q47,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,32,3
+Q47,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,26,4
+Q47,Open → Assigned → In Progress → Resolved → Closed,24,5
+Q48,Open → Assigned → In Progress → Escalated → Resolved → Closed,57,1
+Q48,Open → Assigned → In Progress → Resolved → Closed,63,2
+Q49,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,21,1
+Q49,Open → Assigned → In Progress → Escalated → Resolved → Closed,31,2
+Q49,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,20,3
+Q49,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,22,4
+Q49,Open → Assigned → In Progress → Resolved → Closed,26,5
+Q50,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,14,1
+Q50,Open → Assigned → In Progress → Escalated → Resolved → Closed,17,2
+Q50,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,23,3
+Q50,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,8,4
+Q50,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,13,5
+Q50,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,18,6
+Q50,Open → Assigned → In Progress → Resolved → Closed,13,7
+Q50,Open → Assigned → QA → Resolved → Closed,14,8
+Q51,Open → Assigned → In Progress → Escalated → Resolved → Closed,59,1
+Q51,Open → Assigned → In Progress → Resolved → Closed,61,2
+Q52,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,12,1
+Q52,Open → Assigned → In Progress → Escalated → Resolved → Closed,17,2
+Q52,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,13,3
+Q52,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,16,4
+Q52,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,18,5
+Q52,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,18,6
+Q52,Open → Assigned → In Progress → Resolved → Closed,9,7
+Q52,Open → Assigned → QA → Resolved → Closed,17,8
+Q53,Open → Assigned → In Progress → Escalated → Resolved → Closed,65,1
+Q53,Open → Assigned → In Progress → Resolved → Closed,55,2
+Q54,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,18,1
+Q54,Open → Assigned → In Progress → Escalated → Resolved → Closed,17,2
+Q54,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,17,3
+Q54,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,11,4
+Q54,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,15,5
+Q54,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,12,6
+Q54,Open → Assigned → In Progress → Resolved → Closed,14,7
+Q54,Open → Assigned → QA → Resolved → Closed,16,8
+Q55,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,14,1
+Q55,Open → Assigned → In Progress → Escalated → Resolved → Closed,17,2
+Q55,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,22,3
+Q55,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,13,4
+Q55,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,13,5
+Q55,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,14,6
+Q55,Open → Assigned → In Progress → Resolved → Closed,11,7
+Q55,Open → Assigned → QA → Resolved → Closed,16,8
+Q56,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,23,1
+Q56,Open → Assigned → In Progress → Escalated → Resolved → Closed,23,2
+Q56,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,21,3
+Q56,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,25,4
+Q56,Open → Assigned → In Progress → Resolved → Closed,28,5
+Q57,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,21,1
+Q57,Open → Assigned → In Progress → Escalated → Resolved → Closed,15,2
+Q57,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,12,3
+Q57,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,19,4
+Q57,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,17,5
+Q57,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,9,6
+Q57,Open → Assigned → In Progress → Resolved → Closed,11,7
+Q57,Open → Assigned → QA → Resolved → Closed,16,8
+Q58,Open → Assigned → In Progress → Escalated → Resolved → Closed,63,1
+Q58,Open → Assigned → In Progress → Resolved → Closed,57,2
+Q59,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,11,1
+Q59,Open → Assigned → In Progress → Escalated → Resolved → Closed,16,2
+Q59,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,15,3
+Q59,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,12,4
+Q59,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,22,5
+Q59,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,15,6
+Q59,Open → Assigned → In Progress → Resolved → Closed,16,7
+Q59,Open → Assigned → QA → Resolved → Closed,13,8
+Q60,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,11,1
+Q60,Open → Assigned → In Progress → Escalated → Resolved → Closed,18,2
+Q60,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,18,3
+Q60,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,18,4
+Q60,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,12,5
+Q60,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,15,6
+Q60,Open → Assigned → In Progress → Resolved → Closed,15,7
+Q60,Open → Assigned → QA → Resolved → Closed,13,8
+Q61,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,21,1
+Q61,Open → Assigned → In Progress → Escalated → Resolved → Closed,14,2
+Q61,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,15,3
+Q61,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,11,4
+Q61,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,8,5
+Q61,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,11,6
+Q61,Open → Assigned → In Progress → Resolved → Closed,14,7
+Q61,Open → Assigned → QA → Resolved → Closed,26,8
+Q62,Open → Assigned → In Progress → Escalated → Resolved → Closed,62,1
+Q62,Open → Assigned → In Progress → Resolved → Closed,58,2
+Q63,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,25,1
+Q63,Open → Assigned → In Progress → Escalated → Resolved → Closed,24,2
+Q63,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,23,3
+Q63,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,28,4
+Q63,Open → Assigned → In Progress → Resolved → Closed,20,5
+Q64,Open → Assigned → In Progress → Escalated → Resolved → Closed,70,1
+Q64,Open → Assigned → In Progress → Resolved → Closed,50,2
+Q65,Open → Assigned → In Progress → Escalated → Resolved → Closed,63,1
+Q65,Open → Assigned → In Progress → Resolved → Closed,57,2
+Q66,Open → Assigned → In Progress → Escalated → Resolved → Closed,60,1
+Q66,Open → Assigned → In Progress → Resolved → Closed,60,2
+Q67,Open → Assigned → In Progress → Escalated → Resolved → Closed,59,1
+Q67,Open → Assigned → In Progress → Resolved → Closed,61,2
+Q68,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,30,1
+Q68,Open → Assigned → In Progress → Escalated → Resolved → Closed,22,2
+Q68,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,20,3
+Q68,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,22,4
+Q68,Open → Assigned → In Progress → Resolved → Closed,26,5
+Q69,Open → Assigned → In Progress → Escalated → Resolved → Closed,67,1
+Q69,Open → Assigned → In Progress → Resolved → Closed,53,2
+Q70,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,12,1
+Q70,Open → Assigned → In Progress → Escalated → Resolved → Closed,17,2
+Q70,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,16,3
+Q70,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,15,4
+Q70,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,12,5
+Q70,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,16,6
+Q70,Open → Assigned → In Progress → Resolved → Closed,17,7
+Q70,Open → Assigned → QA → Resolved → Closed,15,8
+Q71,Open → Assigned → In Progress → Escalated → Resolved → Closed,61,1
+Q71,Open → Assigned → In Progress → Resolved → Closed,59,2
+Q72,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,20,1
+Q72,Open → Assigned → In Progress → Escalated → Resolved → Closed,31,2
+Q72,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,24,3
+Q72,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,22,4
+Q72,Open → Assigned → In Progress → Resolved → Closed,23,5
+Q73,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,18,1
+Q73,Open → Assigned → In Progress → Escalated → Resolved → Closed,29,2
+Q73,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,18,3
+Q73,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,29,4
+Q73,Open → Assigned → In Progress → Resolved → Closed,26,5
+Q74,Open → Assigned → In Progress → Escalated → Resolved → Closed,64,1
+Q74,Open → Assigned → In Progress → Resolved → Closed,56,2
+Q75,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,20,1
+Q75,Open → Assigned → In Progress → Escalated → Resolved → Closed,13,2
+Q75,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,15,3
+Q75,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,16,4
+Q75,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,18,5
+Q75,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,15,6
+Q75,Open → Assigned → In Progress → Resolved → Closed,9,7
+Q75,Open → Assigned → QA → Resolved → Closed,14,8
+Q76,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,11,1
+Q76,Open → Assigned → In Progress → Escalated → Resolved → Closed,16,2
+Q76,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,18,3
+Q76,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q76,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,15,5
+Q76,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,14,6
+Q76,Open → Assigned → In Progress → Resolved → Closed,17,7
+Q76,Open → Assigned → QA → Resolved → Closed,15,8
+Q77,Open → Assigned → In Progress → Escalated → Resolved → Closed,67,1
+Q77,Open → Assigned → In Progress → Resolved → Closed,53,2
+Q78,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,16,1
+Q78,Open → Assigned → In Progress → Escalated → Resolved → Closed,9,2
+Q78,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,14,3
+Q78,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,21,4
+Q78,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,16,5
+Q78,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,11,6
+Q78,Open → Assigned → In Progress → Resolved → Closed,15,7
+Q78,Open → Assigned → QA → Resolved → Closed,18,8
+Q79,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,25,1
+Q79,Open → Assigned → In Progress → Escalated → Resolved → Closed,25,2
+Q79,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,27,3
+Q79,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,26,4
+Q79,Open → Assigned → In Progress → Resolved → Closed,17,5
+Q80,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,17,1
+Q80,Open → Assigned → In Progress → Escalated → Resolved → Closed,14,2
+Q80,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,14,3
+Q80,Open → Assigned → In Progress → Pending Follow Up → Resolved → Closed,14,4
+Q80,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,13,5
+Q80,Open → Assigned → In Progress → Reopened → In Progress → Resolved → Closed,15,6
+Q80,Open → Assigned → In Progress → Resolved → Closed,16,7
+Q80,Open → Assigned → QA → Resolved → Closed,17,8
+Q81,Open → Assigned → In Progress → Blocked → In Progress → Resolved → Closed,26,1
+Q81,Open → Assigned → In Progress → Escalated → Resolved → Closed,24,2
+Q81,Open → Assigned → In Progress → Pending Customer Action → In Progress → Resolved → Closed,24,3
+Q81,Open → Assigned → In Progress → Pending Monitoring → Resolved → Closed,19,4
+Q81,Open → Assigned → In Progress → Resolved → Closed,27,5
+Q82,Open → Assigned → In Progress → Escalated → Resolved → Closed,65,1
+Q82,Open → Assigned → In Progress → Resolved → Closed,55,2
+Q83,Open → Assigned → In Progress → Escalated → Resolved → Closed,73,1
+Q83,Open → Assigned → In Progress → Resolved → Closed,47,2
